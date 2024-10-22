@@ -6,3 +6,6 @@ This was run on Python 3.12 (although the version shouldn't matter a great deal)
 
 # Code Below
 Please see [`chat.py`](chat.py) to see the main processing and `llama3.2` prompting script and [`graph.py`](graph.py) to see my graphing methodology.
+
+# License
+[`MIT`](LICENSE)
